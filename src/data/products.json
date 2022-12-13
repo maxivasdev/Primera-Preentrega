@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Zapatillas",
+    "description": "Zapatillas Adidas Running negras",
+    "price": 35000,
+    "thumbnails": [
+      "img",
+      "img"
+    ],
+    "code": 9,
+    "status": true,
+    "category": 1
+  },
+  {
+    "id": 2,
+    "title": "Bolso",
+    "description": "Bolso de entrenamiento Adidas",
+    "price": 15000,
+    "thumbnails": [
+      "img",
+      "img"
+    ],
+    "code": 3,
+    "status": true,
+    "category": "indumentaria",
+    "stock": 8
+  }
+]
